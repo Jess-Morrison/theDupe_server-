@@ -1,0 +1,22 @@
+[
+  {
+      "model": "thedupeapi.user",
+      "pk": 1,
+      "fields": {
+          "username"  : "shoptilldrop",
+          "first_name"  : "Jess",
+          "last_name"  : "M",
+          "created_at" : "2023-07-23" 
+      }
+  },
+  {
+      "model": "thedupeapi.user",
+      "pk": 2,
+      "fields": {
+        "username"  : "getTheDupes",
+        "first_name"  : "Liz",
+        "last_name"  : "T",
+        "created_at" : "2023-07-23"
+      }
+  }
+]

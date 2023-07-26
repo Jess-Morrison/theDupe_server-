@@ -1,0 +1,29 @@
+[
+    {
+        "model": "thedupeapi.company",
+        "pk": 1,
+        "fields": {
+            "company_name": "ABC",
+            "country": "United States",
+            "description": "Board game company"
+        }
+    },
+    {
+        "model": "thedupeapi.company",
+        "pk": 2,
+        "fields": {
+            "company_name": "MeMe",
+            "country": "Canada",
+            "description": "Beauty"
+        }
+    },
+    {
+        "model": "thedupeapi.company",
+        "pk": 3,
+        "fields": {
+            "company_name": "Timmytims",
+            "country": "Germany",
+            "description": "Shoes"
+        }
+    }
+]

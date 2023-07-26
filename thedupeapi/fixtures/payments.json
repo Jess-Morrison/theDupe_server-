@@ -1,0 +1,23 @@
+[
+    {
+        "model": "thedupeapi.paymenttype",
+        "pk": 1,
+        "fields": {
+            "payment_type"  : "cash"
+        }
+    },
+    {
+        "model": "thedupeapi.paymenttype",
+        "pk": 2,
+        "fields": {
+          "payment_type" : "card"
+        }
+    },
+    {
+        "model": "thedupeapi.paymenttype",
+        "pk": 3,
+        "fields": {
+            "payment_type"  : "Stripe"
+        }
+    }
+]

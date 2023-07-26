@@ -1,0 +1,35 @@
+[
+    {
+        "model": "thedupeapi.product",
+        "pk": 1,
+        "fields": {
+            "company": 1,
+            "user" : 1,
+            "product_name" : "Yellow Bees",
+            "description" : "Fancy shoes",
+            "price" : 52.99
+        }
+    },
+    {
+        "model": "thedupeapi.product",
+        "pk": 2,
+        "fields": {
+            "company": 2,
+            "user" : 2,
+            "product_name" : "glozel",
+            "description" : "Fancy cream",
+            "price" : 102.99
+        }
+    },
+    {
+        "model": "thedupeapi.product",
+        "pk": 3,
+        "fields": {
+            "company": 1,
+            "user" : 1,
+            "product_name" : "Blue clues",
+            "description" : "Board Game",
+            "price" : 30.99
+        }
+    }
+]
