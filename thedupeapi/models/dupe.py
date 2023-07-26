@@ -2,6 +2,8 @@ from django.db import models
 
 class Dupe(models.Model):
     company = models.ForeignKey("Company", on_delete=models.CASCADE)
+    product = models.ForeignKey("Product", on_delete=models.CASCADE)
+    order = models.ForeignKey("Order", on_delete=models.CASCADE)
     user = models.ForeignKey("User", on_delete=models.CASCADE)
     dupe_name = models.CharField(max_length=55)
     description = models.CharField(max_length=55)

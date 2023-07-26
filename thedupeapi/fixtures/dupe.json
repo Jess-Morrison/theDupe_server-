@@ -1,0 +1,39 @@
+[
+    {
+        "model": "thedupeapi.dupe",
+        "pk": 1,
+        "fields": {
+            "company": 1,
+            "user": 1,
+            "dupe_name": "Yellow Stripe shoes",
+            "description": "The dupe for yellow bees",
+            "price": 2.00 ,
+            "created_at" : "July 25, 2023, 14:30:00.123456"  
+
+        }
+    },
+    {
+        "model": "thedupeapi.dupe",
+        "pk": 2,
+        "fields": {
+            "company": 2,
+            "user": 2,
+            "dupe_name": "Glow cream",
+            "description": "glozel",
+            "price": 10.00 ,
+            "created_at" : "July 25, 2023, 14:30:00.123456" 
+        }
+    },
+    {
+        "model": "thedupeapi.dupe",
+        "pk": 3,
+        "fields": {
+            "company": 3,
+            "user": 1,
+            "dupe_name": "Clue",
+            "description": "Blue clues",
+            "price": 25.00 ,
+            "created_at" : "July 25, 2023, 14:30:00.123456" 
+        }
+    }
+]
