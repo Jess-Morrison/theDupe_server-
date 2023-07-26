@@ -4,7 +4,7 @@
         "pk": 1,
         "fields": {
             "company_name": "ABC",
-            "country ": "United States",
+            "country": "United States",
             "description": "Board game company"
         }
     },
@@ -13,7 +13,7 @@
         "pk": 2,
         "fields": {
             "company_name": "MeMe",
-            "country ": "Canada",
+            "country": "Canada",
             "description": "Beauty"
         }
     },
@@ -22,7 +22,7 @@
         "pk": 3,
         "fields": {
             "company_name": "Timmytims",
-            "country ": "Germany",
+            "country": "Germany",
             "description": "Shoes"
         }
     }

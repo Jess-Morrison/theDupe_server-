@@ -1,0 +1,12 @@
+[
+  {
+      "model": "thedupeapi.order",
+      "pk": 1,
+      "fields": { 
+          "user" : 1,
+          "status" : true,
+          "order_total" : 37.00,
+          "created_at" : "2023-07-23" 
+      }
+    }
+]

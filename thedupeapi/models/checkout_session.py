@@ -5,6 +5,6 @@ class CheckoutSession(models.Model):
     order = models.OneToOneField("Order", on_delete=models.CASCADE)
     payment_details = models.ForeignKey("PaymentType", on_delete=models.CASCADE)
     shipping_details = models.CharField(max_length=55)
-    created_at = models.DateTimeField(auto_now=True)
-    completed_at = models.DateTimeField(auto_now=True)
+    created_at = models.DateTimeField()
+    completed_at = models.DateTimeField()
     active_status = models.BooleanField()
